@@ -116,4 +116,5 @@ void loop()
 
 
 
-
+### RESULT:
+Thus the interfacing digital input sensor with arduino push button
